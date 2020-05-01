@@ -17,6 +17,9 @@ Or we can manually install the above tools with the help of following websites
 3.	https://github.com/aboul3la/Sublist3r
 4.	https://github.com/jaygreig86/dmitry
 
+change permission of files by(for only first time on your pc then no need)
+
+chmod 777 install.sh  && chmod 777 infoscanner.sh
 
 How to run the tool
 
