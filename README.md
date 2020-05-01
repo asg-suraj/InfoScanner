@@ -10,7 +10,7 @@ InfoScanner is tool consist of combination of this 4 tools
 3.	Snitch
 4.	Auto Scanning to SSL Vulnerability.(a2sv)
 How to install the required tools-
-1.	Run  “./install.sh” in terminal of kali Linux
+1.	Run  “./install.sh”  (without inverted commas) in terminal of kali Linux
 Or we can manually install the above tools with the help of following websites
 1.	https://github.com/hahwul/a2sv
 2.	https://github.com/Smaash/snitch
@@ -20,7 +20,7 @@ Or we can manually install the above tools with the help of following websites
 
 How to run the tool
 
-Run  “./infoscanner.sh” 
+Run  “./infoscanner.sh” (without inverted commas)
 
 
 Description—
