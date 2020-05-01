@@ -16,8 +16,13 @@ Or we can manually install the above tools with the help of following websites
 2.	https://github.com/Smaash/snitch
 3.	https://github.com/aboul3la/Sublist3r
 4.	https://github.com/jaygreig86/dmitry
+
+
 How to run the tool
+
 Run  “./infoscanner.sh” 
+
+
 Description—
 This tool after starting will take input as url or ip and then the tool will give u the options as given below
 1. Inet whois information 
