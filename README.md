@@ -19,7 +19,7 @@ Or we can manually install the above tools with the help of following websites
 
 change permission of files by(for only first time on your pc then no need)
 
-chmod 777 install.sh  && chmod 777 infoscanner.sh
+"chmod 777 install.sh  && chmod 777 infoscanner.sh " (without inverted commas)
 
 How to run the tool
 
